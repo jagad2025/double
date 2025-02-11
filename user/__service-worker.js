@@ -1,0 +1,1 @@
+No Content: https://growups.top/user/__service-worker.js
